@@ -1,4 +1,4 @@
-# Listmonk example
+# Listmonk
 
 This example deploys self-hosted version of [Listmonk](https://listmonk.app/). 
 

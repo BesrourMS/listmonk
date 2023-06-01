@@ -4,7 +4,7 @@ This repo deploys a self-hosted version of [Listmonk](https://listmonk.app/).
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/listmonk)
 
-----
+-----
 
 ## ✨ Features
 

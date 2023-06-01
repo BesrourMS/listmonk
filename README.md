@@ -24,4 +24,4 @@ This repo deploys a self-hosted version of [Listmonk](https://listmonk.app/).
 
 ## ✨ Deploy
 
-- https://listmonk.bnbtunisie.com/
+- [BnB Tunisie](https://listmonk.bnbtunisie.com/)
